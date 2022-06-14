@@ -11,7 +11,7 @@ Deep learning is a sub-discipline of machine learning that encompasses the conce
 These modules consists of Jupyter notebooks with homework questions meant to be evaluated with the content of the notebook. Accompanying examination material will afford instructors and students an opportunity to gauge their understanding of the content.
 
 ## Relevance
-These modules are suitable for use in courses teaching content pertaining to medical physics, computational methods, image processing, and signal analysis. Some domains to which this information is useful are those of physics, biomedical engineering, electrical engineering, and computer science.
+These modules are suitable for use in courses teaching content pertaining to medical physics, computational methods, image processing, and signal analysis. Some domains to which this information is useful are those of physics, chemistry, biomedical engineering, electrical engineering, and computer science.
 
 ## Pre-requisites
 These modules assume prior exposure to machine learning and signal processing at an intermediate level. Introductory ML lessons may be found here [link to other fellow's notebooks with ML intro]. These modules are oriented towards physics students, so proficiency in elementary statistics is assumed.
@@ -35,3 +35,6 @@ After completing the modules, users should have increased confidence in identify
 
 ## Estimated time to completion
 Thorough evaluation of each module should take approximately 2 class periods to complete. Homework questions included in the modules are rigorous, requiring iterative interaction with the included networks. Most benefit from the homework questions may be achieved after 2-4 hours of experimentation with the neural networks.
+
+## References
+[1] [Bengio, Yoshua. "Practical recommendations for gradient-based training of deep architectures." Neural networks: Tricks of the trade. Springer Berlin Heidelberg, 2012. 437-478.](https://arxiv.org/abs/1206.5533)

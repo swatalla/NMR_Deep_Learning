@@ -1,4 +1,4 @@
-# Deep Learning Applications in NMR Spectroscopy and MR Image Reconstruction
+# Deep Learning Applications in NMR Spectroscopy
 
 ## Summary
 The Fourier transform is one of the most important concepts in signal processing. It translates an acquired signal between its time and frequency domain representations, allowing for the decomposition of a singal into its constituent frequencies, or construction of a signal from those frequencies.
